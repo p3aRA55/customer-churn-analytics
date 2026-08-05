@@ -13,9 +13,12 @@ models/*
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Virtual environments
 venv/
 .venv/
 env/
+parsaenv/
 
 # Environment & secrets
 .env
@@ -28,6 +31,3 @@ env/
 .DS_Store
 Thumbs.db
 
-# IDE
-.vscode/
-.idea/

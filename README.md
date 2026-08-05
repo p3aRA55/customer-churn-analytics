@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Retail Customer Churn Analytics
 
 Analysis of online retail customer behavior and churn prediction, with an executive decision-support dashboard in Power BI.
@@ -56,7 +55,3 @@ SQL (PostgreSQL) · Python (pandas, scikit-learn) · Power BI
 ## Status
 
 🚧 In progress
-=======
-# customer-churn-analytics
-End-to-end analysis of online retail customer behavior with churn prediction (ML) and an executive Power BI dashboard — SQL, EDA, RFM, cohort analysis.
->>>>>>> cb54f811619b03ac09953c4334378c6b9dae8bc7
